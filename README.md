@@ -1,6 +1,6 @@
 # Hola 👋
 
-![Banner]([URL_DE_TU_BANNER](https://th.bing.com/th/id/OIG1.haxgWQcgUSzFx0qZpdBi?pid=ImgGn)) <!-- Reemplaza con la URL de tu banner -->
+![Banner]((https://th.bing.com/th/id/OIG1.haxgWQcgUSzFx0qZpdBi?pid=ImgGn)) <!-- Reemplaza con la URL de tu banner -->
 
 ## Sobre mí
 
