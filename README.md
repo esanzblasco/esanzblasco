@@ -1,7 +1,5 @@
 # Hola 👋
 
-![Banner]((https://th.bing.com/th/id/OIG1.haxgWQcgUSzFx0qZpdBi?pid=ImgGn)) <!-- Reemplaza con la URL de tu banner -->
-
 ## Sobre mí
 
 Soy un desarrollador apasionado por las TIG, con experiencia en los SIG y el desarrollo con diferentes tecnologías relacionadas. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes.
